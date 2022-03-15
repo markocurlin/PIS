@@ -8,7 +8,7 @@ namespace ConsoleApp2
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo"); 
-            Console.WriteLine("Filip je bolji programer od Marka.");
+            Console.WriteLine("Filip je gay.");
         }
     }
 }
