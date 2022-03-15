@@ -9,5 +9,10 @@ namespace ConsoleApp2
         {
             Console.WriteLine("Nova klasa");
         }
+        
+        static void FunkcijaJedan()
+        {
+            Console.WriteLine("Nova funkcija");
+        }
     }
 }
