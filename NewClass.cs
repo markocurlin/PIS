@@ -1,4 +1,5 @@
-﻿using System;
+//nja nja nja﻿
+using System;
 
 namespace ConsoleApp2
 {
