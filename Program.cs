@@ -11,3 +11,4 @@ namespace ConsoleApp2
         }
     }
 }
+//sve je okej
