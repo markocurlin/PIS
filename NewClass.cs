@@ -8,5 +8,10 @@ namespace ConsoleApp2
         {
             Console.WriteLine("Nova klasa");
         }
+
+        static void Funkcija()
+        {
+
+        }
     }
 }
